@@ -1,0 +1,1 @@
+Auditoría. Cualquiera puede hacerlo si es libre, incluso nosotros. Pero hay gente especializada.  [Ok, si el código es libre cualquiera puede auditarlo. ¿Y si no? Aunque todo es más fácil contando con las fuentes, aún ante esta falta podemos razonar sobre qué cosas pueden fallar en una aplicación y estar preparados]

@@ -1,0 +1,1 @@
+¿Pero qué código ejecutamos realmente cuando usamos aplicaciones? Muchas veces no tenemos certezas, porque el código de los programas que componen la aplicación permanece oculto al público, es código cerrado, también llamado código privativo.

@@ -1,0 +1,1 @@
+En el servidor: Es todo una gran incógnita (cuak). No tenemos control sobre qué ocurre (a propósito o por error) con la información que le enviamos. Peeero podemos tener cuidado con el tipo de información que compartimos. Primero, ¿cuánto dura? [Y dónde está?]
