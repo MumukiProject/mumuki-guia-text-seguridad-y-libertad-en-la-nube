@@ -1,4 +1,3 @@
-Esto no tiene por qué ser siempre así: también hay (¡mucho!) código abierto.  
+Por supuesto que el caso opuesto también existe. Son incontables los casos en los que los desarrolladores deciden compartir el código fuente con el mundo, y eso se conoce como **código abierto**.
 
-
-La importancia del código abierto y el código libre. [La idea de apertura y libertad no es exclusiva del software: también hay un movimiento creciente de hardware libre e incluso otras áreas]
+Legalmente, se reconoce el derecho de autoría del creador original, pero cualquiera puede acceder y hacer uso de ese código. El autor puede decidir cuál es el límite :no_entry:, en cuanto a modificación, reproducción o uso comercial, entre otras cosas.
