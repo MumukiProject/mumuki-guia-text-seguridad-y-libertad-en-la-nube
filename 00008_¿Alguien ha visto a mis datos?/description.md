@@ -1,1 +1,5 @@
-En el servidor: Es todo una gran incógnita (cuak). No tenemos control sobre qué ocurre (a propósito o por error) con la información que le enviamos. Peeero podemos tener cuidado con el tipo de información que compartimos. Primero, ¿cuánto dura? [Y dónde está?]
+Finalmente, está la información que enviamos a los servidores. Siempre actuamos de buena fé, confiando en cómo usarán y almacenarán los datos que envíamos; pero, una vez que están en posesión de los servidores, dejamos de tener control sobre ellos. :bow:
+
+Hay muchos casos de empresas confiables y conocidas :office: que sufrieron un ataque a su seguridad y les robaron datos de sus usuarios.
+
+La triste realidad es que si querés tener la seguridad de que nunca se exponga un dato personal, no lo subas a Internet. :no_good:
