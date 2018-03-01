@@ -1,1 +1,2 @@
-TODO: evaluación de texto "hola mumuki"
+equal: 'hola mumuki'
+ignore_whitespace: true
