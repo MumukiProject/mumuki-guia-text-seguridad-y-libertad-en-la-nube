@@ -1,6 +1,6 @@
 Ya sea en forma de onda :wavy_dash: o electricidad :zap:, un dato tiene que transitar un espacio físico; puede tener que atravesar varios servidores, y es posible que sea interceptado en el camino. 
 
-La información que enviamos o recibimos es visible :eyes: para otras computadoras y eso puede comprometer nuestra seguridad. :skull:
+La información que enviamos o recibimos es visible para otras computadoras :eyes: y eso puede comprometer nuestra seguridad. :skull:
 
 Para prevenir esto existe el **cifrado de datos**: el _nodo_ que _envía_ los datos tiene una _aplicación_ que los **deforma** siguiendo un **algoritmo**, y el _nodo_ que recibe esos datos tiene otra _aplicación_ que, con el mismo algoritmo, puede regresarlos a su estado original. 
 
