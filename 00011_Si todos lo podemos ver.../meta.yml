@@ -6,7 +6,7 @@ type: problem
 extra_visible: false
 manual_evaluation: false
 choices:
-- value: "`lalala`"
+- value: "```javascript function() {}```"
   checked: true
 - value: ke
   checked: false
