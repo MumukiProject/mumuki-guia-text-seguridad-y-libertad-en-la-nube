@@ -7,3 +7,5 @@ En lugar de gastar todo junto en un equipo, podemos alquilar el servicio de _clo
 Pero, a veces, no hace falta tener un gran presupuesto. Hay muchas acciones de cloud computing donde miles de usuarios de todo el mundo ceden una pequeña porción de su computadora :information_desk_person::computer: para contribuir a los grandes procesamientos de datos. Un ejemplo de esto son los programas científicos, como el que hace modelos de desdoblamientos de proteínas para el tratamientos de enfermedades.
 
 _Es por eso que, con un uso responsable y seguro de Internet, el potencial para mejorar el mundo es ilimitado._ :earth_americas:
+
+> Pensá cuáles de los siguientes servicios utilizan cloud computing
