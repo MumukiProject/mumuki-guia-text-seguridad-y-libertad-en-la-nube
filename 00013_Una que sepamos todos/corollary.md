@@ -1,0 +1,1 @@
+No todo lo que brilla es oro :crown:. A pesar de ser más seguro, el cifrado de clave pública no es recomendable cuando se trabaja con información cifrada habitualmente porque el proceso es mucho más lento que trabajando con cifrado simétrico. :turtle:

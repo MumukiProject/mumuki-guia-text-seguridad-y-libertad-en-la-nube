@@ -1,0 +1,18 @@
+---
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Es muy complicado tener dos claves
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Es más lento que el cifrado simétrico
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: No tiene desventajas, es lo mejor que le pasó a la humanidad
+  checked: false
+name: Una que sepamos todos
