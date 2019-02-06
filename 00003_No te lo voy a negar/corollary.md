@@ -1,0 +1,1 @@
+Los _ataques de negación de servicio distribuido_, o _DDoS_ por sus siglas en inglés (Distributed Denial of Service) ingresan en computadoras que no están lo suficientemente protegidas y ejecutan el ataque desde ellas; de esta manera la red atacada :dart: no puede distinguir las solicitudes que fueron enviadas por computadoras agresoras de las que no.

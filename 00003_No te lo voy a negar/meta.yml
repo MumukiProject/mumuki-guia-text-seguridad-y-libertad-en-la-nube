@@ -1,0 +1,18 @@
+---
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Computadoras criminales especiales para este tipo de ataques
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Computadoras ajenas, sin el consentimiento de quienes las estén usando
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: No utilizan computadoras sino pequeños robots criminales
+  checked: false
+name: No te lo voy a negar

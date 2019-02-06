@@ -1,0 +1,1 @@
+¡Correcto! :clap: La _encriptación_, o _cifrado_, de información es su transformación a partir de un algoritmo para volverla incomprensible para cualquier persona que no tenga la llave para descifrarla :key:. Aunque el cifrado de datos no nació para ser usado para el mal :innocent:, es utilizado en este tipo de malware conocido como _ransomware_. :imp:

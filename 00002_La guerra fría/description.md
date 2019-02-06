@@ -1,0 +1,5 @@
+Siguiendo con nuestro listado de malware conozcamos al temido _spyware_ :scream:. ¡Pero Spiderman es bueno! No dijimos Spiderman, sino Spyware :joy:; este malware suele venir de “regalo” :gift: con software gratuito de páginas no confiables. Lo que hace es espiar nuestra computadora para enviar nuestra información privada, como por ejemplo nuestro historial de navegación o nuestras claves, a otro dispositivo.
+
+Muchas veces los spyware trabajan en conjunto con otro tipo de malware, los _adware_. ¿Alguna vez te aparecieron muchas publicidades en programas o páginas donde antes no? ¿Te apareció de un día para el otro una barra en tu navegador de Internet que no recordabas haber instalado? Si la respuesta a estas preguntas es sí, probablemente te haya pasado lo mismo que a Agus y fuiste visitado por un adware. :eyes:
+
+ Los adware no son necesariamente malignos, su objetivo es mostrar publicidad relacionada a tus búsquedas o páginas visitadas. Sin embargo pueden redirigirnos a páginas publicitarias y hasta contener código malicioso. :skull:

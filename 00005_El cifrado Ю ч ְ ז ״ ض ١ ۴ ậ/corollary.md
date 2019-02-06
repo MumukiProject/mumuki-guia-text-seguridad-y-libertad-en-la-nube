@@ -1,0 +1,1 @@
+¡Excelente! Nuestro programa ya volvió a la normalidad. Lo bueno de haberlo escrito en código es que ahora la transformación de cada letra es mucho más rápida :runner:, pero la necesidad de ocultar información nació mucho antes que las computadoras. :scroll:
