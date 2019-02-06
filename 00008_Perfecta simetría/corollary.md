@@ -1,0 +1,1 @@
+Tener acceso al algoritmo de cifrado no sirve de mucho sin la llave, por eso ninguna persona no autorizada puede acceder a ella ya que tendría acceso a nuestra información :unlock: :fearful:. Por ese motivo es necesario que la clave sea notificada a través de un medio seguro como por ejemplo HTTPS. :muscle:
