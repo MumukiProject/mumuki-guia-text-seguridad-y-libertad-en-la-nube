@@ -1,5 +1,5 @@
 #...previousSolution...#
 
-def cifrar_con_cesar(palabra, desplazamiento)
+def cifrar_con_cesar(mensaje, desplazamiento)
 
 end
