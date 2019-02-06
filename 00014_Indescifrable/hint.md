@@ -1,4 +1,4 @@
-Lo que hace `hash` es:
+Lo que hace `primer_hash` es:
 
 - obtener el largo de la palabra que recibe por parámetro;
 - transformar ese mensaje a una lista de caracteres;
