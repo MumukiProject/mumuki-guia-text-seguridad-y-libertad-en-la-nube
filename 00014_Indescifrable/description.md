@@ -2,10 +2,10 @@ Agus luego del triste, y costoso :money_with_wings:, encuentro con un ransomware
 
 En vez de utilizar un algoritmo de cifrado para ocultar sus archivos, Agus utilizó una _función de resumen_, o _función hash_. ¿Y cuál es el problema? Una función hash nos permite transformar nuestra información como cuando encriptamos, pero no se puede volver a su estado original. :open_mouth:
 
-> Vamos a ver una función hash en acción :muscle:. Solo falta que le des un valor a la variable `tamanio_mensaje` con el largo del mensaje que recibe `primer_hash` por parámetro. Podés probar en la consola transformando distintos mensajes de la siguiente forma:
+> Vamos a ver una función hash en acción :muscle:. Solo falta que le des un valor a la variable `tamanio_mensaje` con el largo del mensaje que recibe `hash_mumuki` por parámetro. Podés probar en la consola transformando distintos mensajes de la siguiente forma:
 >
 ``` ruby
-ム primer_hash('me van a hashear')
+ム hash_mumuki('me van a hashear')
 2635041755969520934347140
 ```
 Si tenés dudas con el código acordate de mirar la pista. :wink:

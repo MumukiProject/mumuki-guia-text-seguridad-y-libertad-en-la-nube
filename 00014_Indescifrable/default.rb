@@ -1,4 +1,4 @@
-def primer_hash(mensaje)
+def hash_mumuki(mensaje)
 	tamanio_mensaje = 
 	mensaje
 		.chars

@@ -1,4 +1,4 @@
-Lo que hace `primer_hash` es:
+Lo que hace `hash_mumuki` es:
 
 - obtener el largo de la palabra que recibe por parámetro;
 - transformar ese mensaje a una lista de caracteres;
