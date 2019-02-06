@@ -1,0 +1,15 @@
+---
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Cifrado
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Hashing
+  checked: false
+name: Cuentos de la criptografía
