@@ -1,4 +1,4 @@
-def hash(mensaje)
+def primer_hash(mensaje)
 	tamanio_mensaje = 
 	mensaje
 		.chars
