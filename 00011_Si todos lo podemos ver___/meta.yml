@@ -1,18 +1,15 @@
 ---
 tags: []
 layout: input_bottom
-editor: multiple_choice
+editor: single_choice
 type: problem
 extra_visible: false
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Amazon
-  checked: true
+  value: Opción 1
+  checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Netflix
+  value: Opción 2
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Mumuki
-  checked: true
-name: Nubosidad variable
+name: Si todos lo podemos ver...
