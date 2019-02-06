@@ -1,4 +1,4 @@
-@letras_a_emojis = { 
+@@letras_a_emojis = { 
   'A' => '💜️️️', 
   'B' => '💣',
   'C' => '🌵',
@@ -30,7 +30,7 @@
  }
 
 def transformar_letra(letra)
-	@letras_a_emojis[letra]
+	@@letras_a_emojis[letra]
 end
 
 def cifrar_mensaje_con_emojis(mensaje)
