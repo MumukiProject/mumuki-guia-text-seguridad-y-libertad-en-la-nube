@@ -1,0 +1,1 @@
+¡Excelente! Ya tenemos un programa que nos permite tanto encriptar como desencriptar mensajes :clap: :clap: :clap:. El principal problema del cifrado César es que se puede obtener el desplazamiento a prueba y error, ya que como máximo nos puede tomar 27 intentos :unamused:.  Es por eso que suele ser sólo una parte de sistemas más complejos. :wink:
