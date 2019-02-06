@@ -1,0 +1,1 @@
+Pero esto sólo sirve para reemplazar letras. ¿Y si quiero reemplazar todo un mensaje? :thought_balloon:

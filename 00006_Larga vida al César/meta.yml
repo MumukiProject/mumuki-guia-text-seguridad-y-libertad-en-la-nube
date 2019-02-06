@@ -1,9 +1,10 @@
 ---
 tags: []
 layout: input_bottom
-editor: text
+editor: code
 type: problem
 extra_visible: false
+language: ruby
 manual_evaluation: false
 choices: []
-name: Ingenio en la comunicación
+name: Larga vida al César
