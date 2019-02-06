@@ -1,0 +1,5 @@
+describe 'hash' do
+  it 'debería transformar la palabra la numero correcto' do
+    expect('hola').to eq('hola')
+  end
+end
