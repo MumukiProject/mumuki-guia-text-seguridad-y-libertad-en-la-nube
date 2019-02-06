@@ -1,5 +1,5 @@
 describe 'Descifrado cesar de' do
   it 'palabra debería ser correcto' do
-    expect('hola').to eq('hola')
+    expect(descifrar_cesar('ARTUV',2)).to eq('YPRST')
   end
 end
