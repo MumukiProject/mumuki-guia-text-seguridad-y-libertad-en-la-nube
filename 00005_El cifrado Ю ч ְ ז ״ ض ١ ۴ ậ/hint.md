@@ -16,7 +16,7 @@ Vamos a ver de qué se trata este código:
 'MUMUKI'
 ```
 
-¡Podés probar tu código en la consola!
+¡Podés probar tu código en la consola! Pero recordá usar MAYÚSCULAS :wink:
 
 ```
 ム cifrar_mensaje_con_emojis('MUMUKI')
