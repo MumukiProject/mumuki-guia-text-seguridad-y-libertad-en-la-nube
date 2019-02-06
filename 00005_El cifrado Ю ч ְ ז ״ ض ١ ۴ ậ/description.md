@@ -4,7 +4,7 @@ El código es  ▌ ▐ ▐ ░ ▒ ▓ ■ ■ □ ▪ ▫ ▫▬ ▲ ► ▼ �
 
 :scream: ¡Un malware nos atacó y borró nuestro programa para encriptar mensajes! Por suerte una parte la recuperamos, pero vas a tener que ayudarnos para poder terminarlo.
 
-> Completá el código en Ruby para poder cifrar mensajes correctamente.
+> En base a la tabla del ejercicio anterior:
 <table class="table table-bordered">
   <tr>
     <th>A = 💜️️️</th>
@@ -40,4 +40,4 @@ El código es  ▌ ▐ ▐ ░ ▒ ▓ ■ ■ □ ▪ ▫ ▫▬ ▲ ► ▼ �
     <th>Z = 🍎</th>
   </tr>
 </table>
-
+Completá el código en Ruby para poder cifrar mensajes correctamente.
