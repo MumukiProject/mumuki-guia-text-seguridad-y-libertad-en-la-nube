@@ -1,5 +1,5 @@
 describe 'Cifrado de' do
   it 'palabra en emojis debería ser correcto' do
-    expect('👻🤖💡🎹💜️').to eq(  '👻🤖💡🎹💜️️️')
+    expect('hola').to eq('hola')
   end
 end
