@@ -1,18 +1,18 @@
 ---
 tags: []
 layout: input_bottom
-editor: multiple_choice
+editor: single_choice
 type: problem
 extra_visible: false
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Amazon
-  checked: true
+  value: El primer mensaje enviado
+  checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Netflix
-  checked: true
+  value: La primer respuesta
+  checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Mumuki
+  value: La llave de cifrado
   checked: true
-name: Nubosidad variable
+name: Correte del medio

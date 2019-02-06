@@ -1,0 +1,1 @@
+ ¡Exactamente! Lo primero que necesita el atacante es la llave, ya que sin ella no podrá leer los mensajes. Es por eso que este tipo de ataques son muy comunes en el intercambio de claves. :key:
