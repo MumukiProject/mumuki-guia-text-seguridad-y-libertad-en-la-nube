@@ -1,4 +1,4 @@
-Hace falta completar lo que tenemos hecho hasta ahora para poder reemplazar mensajes enteros :muscle:. ¿Cómo lo hacemos? ¡Aplicando el método reemplazar a cada letra de la palabra! Por ejemplo, si tenemos la palabra _cama_, y la ciframos con un desplazamiento igual a 3, obtendríamos _fdpd_ porque:
+Hace falta completar lo que tenemos hecho hasta ahora para poder reemplazar mensajes enteros :muscle:. ¿Cómo lo hacemos? ¡Aplicando el método reemplazar a cada letra de la palabra! Por ejemplo, si tenemos la palabra _CAMA_, y la ciframos con un desplazamiento igual a 3, obtendríamos _FDPD_ porque:
 
 A -> D, C -> F y M -> P 
 
