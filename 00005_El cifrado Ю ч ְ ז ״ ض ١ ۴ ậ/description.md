@@ -84,7 +84,6 @@ Completá el código en Ruby para poder cifrar mensajes correctamente.
   .emoji-button {
     background-color: #ecf0f1;
     border: 1px solid #dce4ec;
-    border-radius: 4px;
   }
   
   .emoji-button:focus {
