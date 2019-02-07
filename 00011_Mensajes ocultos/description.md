@@ -1,4 +1,4 @@
-¡Momento :hand:! ¿El cifrado puede ser usado para el bien? 
+¡Momento!:hand: ¿El cifrado puede ser usado para el bien? 
 
 Cuando se establece una comunicación, es importante que el mensaje sólo lo puedan ver quien lo envía y quien tiene que recibirlo :envelope::lock:. Ahí es cuando aparece el cifrado para salvarnos: con nada más (ni nada menos :smirk:) que un algoritmo y una llave logra ocultar la información de ojos curiosos. :eyes:
 
