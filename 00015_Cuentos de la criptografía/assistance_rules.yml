@@ -1,0 +1,5 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: submission_failed
+  then: Usando hashing no se podría volver la información a su estado original
