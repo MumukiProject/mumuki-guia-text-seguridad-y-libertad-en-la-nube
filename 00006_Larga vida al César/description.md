@@ -4,7 +4,7 @@ Este algoritmo se basa en reemplazar cada letra del abecedario por alguna que es
 
 A -> B, B -> C, C -> D, ...
 
-Pero este algoritmo es más interesante si nos desplazamos más posiciones. Por ejemplo, si nuestro desplazamiento es 3, nuestro abecedario sería:
+Pero este algoritmo es más interesante si nos desplazamos más lugares :smirk:. Por ejemplo, si nuestro desplazamiento es 3, nuestro abecedario sería:
 
 A  -> D, B  -> E, C -> F, ...
 
