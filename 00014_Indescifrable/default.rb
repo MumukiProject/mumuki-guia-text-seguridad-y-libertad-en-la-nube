@@ -1,5 +1,6 @@
 def hash_mumuki(mensaje)
 	tamanio_mensaje = 
+	
 	mensaje
 		.chars
 		.each_with_index
