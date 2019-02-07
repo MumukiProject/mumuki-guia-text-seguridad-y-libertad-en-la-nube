@@ -41,6 +41,8 @@ El código es  ▌ ▐ ▐ ░ ▒ ▓ ■ ■ □ ▪ ▫ ▫▬ ▲ ► ▼ �
   </tr>
 </table>
 >
+Completá el código en Ruby para poder cifrar mensajes correctamente.
+
 <div class="btn-group" role="group" aria-label="Emojis">
   <button type="button" class="btn btn-secondary emoji-button" onclick="writeEmoji('💜️')">💜️</button>
   <button type="button" class="btn btn-secondary emoji-button" onclick="writeEmoji('💣')">💣</button>
@@ -70,8 +72,6 @@ El código es  ▌ ▐ ▐ ░ ▒ ▓ ■ ■ □ ▪ ▫ ▫▬ ▲ ► ▼ �
   <button type="button" class="btn btn-secondary emoji-button" onclick="writeEmoji('⚠️')">⚠️</button>
   <button type="button" class="btn btn-secondary emoji-button" onclick="writeEmoji('🍎')">🍎</button>
 </div>
-Completá el código en Ruby para poder cifrar mensajes correctamente.
-
 <script>
   function writeEmoji(emoji) {
     var doc = mumuki.page.editors[0].getDoc();
