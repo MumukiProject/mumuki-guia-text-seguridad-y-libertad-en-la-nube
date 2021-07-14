@@ -5,6 +5,7 @@ layout: input_bottom
 editor: free_form
 type: problem
 extra_visible: false
+teacher_info: ''
 manual_evaluation: false
 choices: []
 name: El mal que no se puede tocar
